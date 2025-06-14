@@ -67,3 +67,10 @@ Assign jobs, monitor agent status, and interact with your AI team from a beautif
 
 ## 📁 Folder Structure
 
+## 📬 Connect with Me :
+
+👤 **Akshay Gupta**
+
+📧 Email: gupta.akshay0010@gmail.com
+
+🐦 Twitter: [@_akshay1008_](https://twitter.com/_akshay1008_)
